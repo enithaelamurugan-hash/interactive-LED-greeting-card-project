@@ -34,7 +34,7 @@ RESULT
 
 ## 
 
- **![][result...png,result.jpeg]**
+ **![][result...png, result.jpeg]**
 
 [image1]: result...png
 [image2]: result.jpeg
